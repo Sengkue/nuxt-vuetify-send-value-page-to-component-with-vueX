@@ -1,0 +1,1 @@
+# nuxt-vuetify-send-value-page-to-component-with-vueX
